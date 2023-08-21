@@ -1,0 +1,16 @@
+.App{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  margin: 30px;
+}
+.inputs{
+  display: flex;
+  flex-direction: column;
+  
+}
+.input{
+  margin: 10px;
+}
+
